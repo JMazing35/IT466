@@ -189,10 +189,9 @@ else:
     exit()
 
 
-print "This is my addition"
 print "for IT 466"
-print "New, updated change"
 print "This was done after reverting to previous commit"
+print "NEW STUFF"
 
 
 
