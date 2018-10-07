@@ -191,8 +191,6 @@ else:
 
 print "This is my addition"
 print "for IT 466"
-print "Additional test"
-
 
 
 
